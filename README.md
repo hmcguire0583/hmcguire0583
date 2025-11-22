@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hmcguire0583
-- 👀 I’m interested in ... Anything
+- 👀 I’m interested in ... Full-Stack Development
 - 🌱 I’m currently learning ... C++, C, Python, JavaScript
 - 💞️ I’m looking to collaborate on ... Open-Source Projects
 - 📫 How to reach me ... email: harryjunior2026@gmail.com
